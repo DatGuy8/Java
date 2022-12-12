@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: BlanchedAlmond;
+}
+
+#bluebox{
+	background-color: lightblue;
+	width: 20vw;
+	margin: 0 auto;
+	border: 2px solid black;
+}
+
+form{
+	width: 30vw;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+}
+
+p{
+	padding:15px;
+}

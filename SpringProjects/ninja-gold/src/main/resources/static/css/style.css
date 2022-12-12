@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+.form1{
+	border: 2px solid black;
+	align-items: center;
+    width: 175px;
+    height: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#bigbox {
+	display: flex;
+    justify-content: space-evenly;
+}
+
+#middleit {
+	width: 120px;
+    margin: 50px auto;
+}
+
+#activityBox{
+	width:70vw;
+	height: 250px;
+	margin: 0 auto;
+	overflow-y:auto;
+	border: 2px solid black;
+}
